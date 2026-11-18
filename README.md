@@ -1,27 +1,27 @@
 # StockFlow
 ## 👥 Integrantes
-- Francisco Luan
+- Francisco Luan Sousa Ferreira
 - Laize Samilly da Silva Nobre
 - Lucas Gabriel Feitosa Pereira
 - Samuel Lucas dos Santos Oliveira
-<br>
+
 <br>
 
 ## 🛣️ Trilha escolhida
-A trilha escolhida foi uma ideia personalizada. Isto é, não foi nada sugerido pelo professor Jeferson. O projeto StockFlow é um estoque online, onde os vendedores utilizarão.
+A trilha escolhida foi uma ideia personalizada. Isto é, não foi nada sugerido pelo professor Jeferson. O projeto StockFlow é um estoque online, que os vendedores utilizarão para gerenciar seus diversos produtos.
 <br>
 <br>
 
 ## 🔧 Qual problema isto resolve?
-É comum de quase todos os participantes a presença de parentes próximos que trabalham com vendas de produtos, e todos eles apresentam um problema similar: a dificuldade em organizar o estoque. Isso gera confusão no cliente e dificuldade em saber quais produtos repôr no estoque, quais não estão saindo e outras dficuldades.
+É comum de quase todos os participantes a presença de parentes próximos que trabalham com vendas de produtos, e todos eles apresentam um problema similar: a dificuldade em organizar o estoque. Isso gera confusão e dificuldade em identificar problemas como: quais produtos é necessário repôr no estoque? quais não estão saindo? entre vários outros.
 <br>
 
-Pensando nisso que nasceu o StockFlow, uma aplicação onde o vendedor consegue gerenciar a saída, entrada e registro de seus produtos com alguns cliques, facilitando o trabalho e melhorando sua eficiência
+Pensando nisso que nasceu o StockFlow, uma aplicação onde o vendedor consegue gerenciar a saída, entrada e registro de seus produtos com alguns cliques, facilitando o trabalho e melhorando sua eficiência.
 <br>
 <br>
 
 ## 🧩 Protótipo
-A seguir, imagens do protótipo do site. O design de como ele deve ser desenvolvido:
+A seguir, há imagens do protótipo do site, ou seja, o design de como ele deve ser desenvolvido:
 <br>
 
 ![pagina_inicial(deslogado)](./assets/pagina_inicial_(deslogado).jpeg)
@@ -32,8 +32,6 @@ A seguir, imagens do protótipo do site. O design de como ele deve ser desenvolv
 ![pagina_cadastrar_movimentacao](./assets/pagina_cadastrar_movimentacao.jpeg)
 ![pagina_excluir_produto](./assets/pagina_excluir_produto.jpeg)
 
-[visualize o protótipo navegável aqui](https://lovable.dev/projects/d76ae399-c2f8-54c6-9e74-bb7cd8051c86?magic_link=mc_2d8ff31e-4853-48a6-9c9b-d80e73a173ad)
-<br>
 <br>
 
 ## 🛢️ Modelagem do banco de dados
@@ -59,7 +57,7 @@ Nós utilizamos do Lovable, uma ferramenta de IA que auxiliou na criação do no
 "O CRUD de produto nosso inclui a opção de excluir e de editar o produto, além da de cadastrar o produto que já está em movimentação. Faça com que ao clicar em algum dos produtos da listagem, apareça botões de editar e excluir (e confirmação de exclusão) bem como os campos necessários para as ações"
 
 ### O que das nossas ideias se manteve?
-Como é possíve ver, todas as ideias foram nossas, e todas elas se manteram. O trabalho da IA foi apenas dar vida às nossas ideias, decorando e casando elas de forma harmônica
+Como é possíve ver, todas as ideias do nosso grupo que estavam presentes nos prompts se manteram. O trabalho da IA foi apenas dar vida às nossas ideias, decorando e casando elas, conforme iam sendo inseridas, de forma harmônica com o restante da página.
 
 ### Como ficou após a IA?
-Após a IA, temos o protótipo harmonizado e com as combinações entre elementos e cores.
+Após a IA, temos o protótipo harmonizado e com combinações entre os elementos, componentes necessários da aplicação e as cores.
